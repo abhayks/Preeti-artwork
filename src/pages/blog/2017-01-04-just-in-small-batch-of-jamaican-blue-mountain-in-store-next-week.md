@@ -1,34 +1,41 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
+templateKey: blog-post
+title: "Kans Vadh:"
+date: 2021-11-22T06:41:26.506Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  हिन्दू कैलेंडर के अनुसार भगवान श्री कृष्ण ने अपने मामा कंस का वध कार्तिक मास
+  के शुक्ल पक्ष की दशमी तिथि को किया था। जिस कारण इस तिथि को कंस वध के नाम से
+  जाना जाता है। ये तिथि इस बार 07 नवंबर यानी आज पड़ी है। भगवान कृष्ण ने अपने
+  जीवन काल में कई लीलाएं की थीं जिसमें कंस वध प्रमुख है। जानिए कंस और उसके वध से
+  जुड़ी कुछ रोचक बातें…
+
+
+  – कंस नौ भाई और उसकी पांच बहनें थीं। वह अपने भाई-बहनों में सबसे बड़ा था। उसकी बहनों का ब्याह वसुदेव के छोटे भाइयों से हुआ था।
+
+
+  – कंस ने अपने ही पिता उग्रसेन को बंदी बनाकर जेल में डाल दिया था और खुद शूरसेन जनपद का राजा बन बैठा।
+
+
+  – कंस अपनी चचेरी बहन देवकी से काफी स्नेह करता था। लेकिन एक दिन आकाशवाणी हुई कि तू जिस देवकी से इतना स्नेह करता है, उसका 8वां पुत्र ही तेरी मौत का कारण बनेगा।
+
+
+  – मौत के भय से कंस ने देवकी और वसुदेव को कारागार में डाल दिया और उसने एक-एक करके देवकी की सभी 6 संतानों को मार डाला।
+
+
+  – फिर शेषनाग ने मां देवकी के गर्भ में प्रवेश किया लेकिन भगवान विष्णु ने देवकी की इस सातवी संतान को देवी योगमाया की मदद से वसुदेव की पहली पत्नी रोहिणी के गर्भ में स्थापित कर दिया। यह बलराम कहलाए।
+
+
+  – इसके बाद भगवान विष्णु स्वयं माता देवकी के गर्भ में कृष्ण अवतार में आए। ये वसुदेव की आठवीं संतान थी जिसे लेकर भविष्यवाणी हुई थी कि यही कंस का वध करेगी।
+
+
+  – कंस ने कारागार की सुरक्षा और भी ज्यादा बढ़ा दी। भगवान विष्णु ने अपने कृष्ण अवतार में जन्म लिया। भगवान के जन्म लेते ही कारागार के द्वार खुद ब खुद खुल गए और सभी सैनिक सो गये। जिससे वासुदेव बाल कृष्ण को सुरक्षित नंदबाबा के यहां पहुंचाने में सफल हो गए।
+
+
+  – जब कंस को कृष्ण के गोकुल में होने की सूचना मिली, तो उसने कई बार उनकी हत्या की कोशिश की, लेकिन हर बार उसे हार का ही सामना करना पड़ा। तब एक दिन उसने साजिश के तहत कृष्ण और बलराम को अपने दरबार में आमंत्रित किया। जहां श्रीकृष्ण ने उसका वध कर दिया।
+featuredpost: true
+featuredimage: /img/preeticlass.jpeg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - Kans
+  - Mama
 ---
-
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
-
-## A little history
-
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+**Kans Vadh:**
