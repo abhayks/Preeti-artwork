@@ -1,33 +1,31 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: राज्य का वातावरण धर्म के अनुकूल
+date: 2021-11-22T06:36:16.683Z
+description: "पौराणिक कथाओं के अनुसार कंस मथुरा के राजा उग्रसेन और रानी पद्मावती
+  का पात्र था। मथुरा नरेश उग्रसेन स्वभाव से अत्यंत धार्मिक थे। अनेक साधु-संत
+  उनके आश्रय में शांति से अध्ययन, मनन, चिंतन किया करते थे। सभी धार्मिक कार्यों
+  यज्ञ, हवन आदि की व्यवस्था करने, साधुजनों के हित के लिए कार्य करने और उन पर
+  अत्याचार करने वाले को दंडित करने के लिए राजा उग्रसेन हमेशा उपलब्ध रहते थे।
+  उनके राज्य का वातावरण हर तरह से धर्म के अनुकूल था। राजा उग्रसेन का विवाह
+  विदर्भ के राजा सत्यकेतु की पुत्री पद्मावती के साथ हुआ था। दोनों में बहुत प्रेम
+  था और वे धर्मानुकूल आचरण करते हुए सुखी गृहस्थ जीवन व्यतीत कर रहे "
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/preetiart2.jpeg
 tags:
-  - flavor
-  - tasting
+  - Kans
+  - Mama
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/preetiart2.jpeg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+## पद्मावती अत्यंत सुंदर, चंचल और मनमोहक
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+कहा जाता है कि रानी पद्मावती अत्यंत सुंदर, चंचल और मनमोहक थीं। एक बार वे अपने मायके गई हुई थीं। मायके में वह अपनी सखियों के साथ उद्यान में खेल रही थीं, तभी एक गंधर्व की दृष्टि उन पर पड़ी। पुराणों में इस गंधर्व का नाम द्रमिला या गोदिला बताया गया है। रानी पद्मावती को देखते ही गंधर्व उन पर आसक्त हो कर उन्हें पाने के लिए संकल्पित हो गया। पौराणिक कथाओं में गंधर्वों को कुछ अनुपम शक्तियों से युक्त बताया गया है। अपने मायावी प्रभाव से गंधर्व ने रानी पद्मावती को सम्मोहित कर लिया। इस तरह संसार से गोपनीय रहते हुए द्रमिला और रानी पद्मावती का संबंध स्थापित हुआ और इसी के फलस्वरूप रानी पद्मावती गर्भवती हुईं।
 
-## What the updates mean to you
+## अपने पति राजा उग्रसेन के साथ
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+सम्मोहन की अवस्था में होने से उन्हें स्वयं भी कुछ याद नहीं रहा और वे मथुरा जाकर अपने पति राजा उग्रसेन के साथ सामान्य जीवन व्यतीत करने लगीं।
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+## पुत्र कंस का जन्म
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+समय आने पर उनके पुत्र कंस का जन्म हुआ, जो संसार की दृष्टि में तो राजा उग्रसेन का पुत्र था, पर असल में उसका पिता द्रमिला था। द्रमिला हर तरह से एक दुष्ट, पापी और निकृष्ठ गंधर्व था। अपने पिता के दुर्गुणों के अनुकूल ही अति धार्मिक वातावरण में रहने के बावजूद कंस हर तरह की दुष्ट वृत्तियों का स्वामी बना।

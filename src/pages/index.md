@@ -1,63 +1,60 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Preeti's Art World
+image: /img/preeticlass.jpeg
+heading: Learn art with a conscience
+subheading: Develop the artist within you
 mainpitch:
-  title: Why Kaldi
+  title: Discover your Passion
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Prettyz Art Studio are classes held for children whom are bound to express
+    their creativity in new and innovative ways under the guidance of Preeti
+    Katewa, an artist herself. Allow your children to find out who they truly
+    are through the calming, yet awe-inspiring practice of art where children
+    can channel their inner emotions and thoughts on a canvas to create
+    something much more deeper than just a picture. 
+description: Prettyz Art Studio is more than just drawing a cartoon or painting
+  a picture, these art classes are about tapping into feelings and using that
+  emotion to make a masterpiece from pure sentiment. Art, being the best way to
+  stimulate imagination, is the prime solution for children to solve day-to-day
+  problems only if done in a way as to express the intensity of the child's
+  passion for it. Prettyz Art Studio makes all of these factors possible, by
+  allowing children to add their own designs and personalize their work with
+  their own mind. Details for classes can be seen below.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: This section is dedicated to poking Mama, the great Kans Mama
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: |
+        Who is Kans Mama ? 
+        The great/ or not so great Mama 
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: |
+        Whats the biggest attribute of Kans Mama ? 
+
+        Mood Swings 
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Someone ::We believe in Kans
+        Mama......................................... 
+
+
+        Me :: Good Joke, tell me one more. 
+  heading: Discover your Passion
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Prettyz Art Studio are classes held for children whom are bound to express
+    their creativity in new and innovative ways under the guidance of Preeti
+    Katewa, an artist herself. Allow your children to find out who they truly
+    are through the calming, yet awe-inspiring practice of art where children
+    can channel their inner emotions and thoughts on a canvas to create
+    something much more deeper than just a picture. 
 main:
-  heading: Great coffee with no compromises
+  heading: Whats does Art World brings to you ?
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    An insight into your own capabilities. Preet's extensive knowledge and
+    talent is just a guiding force which will help you develop and refine your
+    own talent. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg

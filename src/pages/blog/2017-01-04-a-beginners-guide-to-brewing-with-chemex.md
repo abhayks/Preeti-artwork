@@ -1,29 +1,38 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: स्वयं को राजा घोषित कर दिया
+date: 2021-11-22T06:38:55.807Z
+description: उसने अपने पिता से राजगद्दी छीन स्वयं को राजा घोषित कर दिया। अपने
+  अभिभावकों को कारावास में डाल दिया और हर तरफ आतंक और अत्याचार का वातावरण बना
+  दिया। सब दुर्गुणों के बावजूद कंस अपनी छोटी बहन देवकी से अपार स्नेह रखता था।
+  यदि देवकी केे विवाह के समय आकाशवाणी ना हुई होती, तो वह कभी अपनी बहन पर
+  मर्मांतक अत्याचार नहीं कर सकता था।
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/preetiart5.jpeg
 tags:
-  - brewing
-  - chemex
+  - Kans
+  - Mama
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/preetiart8.jpeg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+**Kans Vadh:** भगवान श्रीकृष्ण के मामा कंस का जिक्र आज क्यों किया जा रहा है, इसके पीछे एक वजह है। दरअसल हिन्दू कैलेंडर के अनुसार, भगवान श्रीकृष्ण ने कंस मामा का वध करके शूरसेन जनपद वासियों को जिस दिन उसके अत्याचार से मुक्त कराया था, व​​ह तिथि कार्तिक मास के शुक्ल पक्ष की दशमी तिथि​ थी, जो 07 नवंबर दिन गुरुवार को पड़ रही है। कंस वध की कथा हम सबने सुनी है और टीवी पर आने वाले धारावाहिकों के माध्यम से देखी है। आज हम कंस, उसके वध की कथा और उससे जुड़े अन्य पहलुओं के बारे में जानते हैं:
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+**1.** कंस के पिता का नाम उग्रसेन था, वे शूरसेन जनपद के राजा थे। उग्रसेन यदुवंशीय राजा आहुक के पुत्र थे। उनकी माता का नाम काश्या थीं, जो काशीराज की पुत्री थीं। उग्रसेन दो भाई थे, उनके भाई का नाम देवक था।
 
-## The little secrets of Chemex brewing
+**2.** कंस नौ भाई और पांच बहन था। कंस इन सब में बड़ा था। उसकी बहनों का ब्याह वसुदेव के छोटे भाइयों से हुआ था। कंस के भाइयों को नाम न्यग्रोध, सुनामा, कंक, शंकु, अजभू, राष्ट्रपाल, युद्धमुष्टि और सुमुष्टिद था। बहनें कंसा, कंसवती, सतन्तू, राष्ट्रपाली और कंका थीं।
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+**3.** कंस ने अपने पिता उग्रसेन को बंदी बनाकर जेल में डाल दिया था और स्वयं शूरसेन जनपद का राजा बन बैठा। मथुरा शूरसेन जनपद में ही था।
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+**4.** कंस ने मगध के शासक जरासंध की दो बेटियों से अपना विवाह किया था। इस कारण वह और शक्तिशाली हो गया था।
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+**5.** कंस के काका का नाम शूरसेन था, वे मथुरा पर शासन करते थे। उनके पुत्र वसुदेव का विवाह कंस की चचेरी बहन देवकी से हुआ था। देवकी से ही भगवान श्रीकृष्ण का जन्म हुआ था।
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+**6.** कंस देवकी से काफी स्नेह करता था। एक दिन वह देवकी के साथ कहीं जा रहा था, तभी आकाशवाणी हुई कि तू जिस देवकी से इतना स्नेह करता है, उसका 8वां पुत्र ही तेरी मौत का कारण बनेगा।
+
+**7.** मौत के भय से कंस ने देवकी और वसुदेव को कारागार में डाल दिया। उसने एक-एक करके देवकी के 6 बेटों को मार डाला। फिर शेषनाग ने मां देवकी के गर्भ में प्रवेश किया तो भगवान विष्णु ने माया से वसुदेव की पत्नी रोहिणी के पेट में उस गर्भ को रख दिया।
+
+**8.** इसके बाद भगवान विष्णु स्वयं माता देवकी के गर्भ से कृष्णावतार में पृथ्वी पर आए। वे वसुदेव की आठवीं संतान थे। भगवान विष्णु के आदेशानुसार, वसुदेव बाल कृष्ण को नंदबाबा के घर पहुंचा आए।
+
+**9.** जब कंस को कृष्ण के गोकुल में होने की सूचना मिली, तो उसने कई बार उनकी हत्या की कोशिश की, लेकिन हर बार विफल रहा। तब एक दिन उसने साजिश के तहत कृष्ण और बलराम को अपने दरबार में आमंत्रित किया। जहां श्रीकृष्ण ने उसका वध कर दिया। इसके बाद उन्होंने अपने माता-पिता देवकी और वसुदेव को कारागार से मुक्त कराया।
+
+**10.** कंस वध के बाद भगवान श्रीकृष्ण ने उग्रसेन को दोबारा राजा की गद्दी पर बैठा दिया।

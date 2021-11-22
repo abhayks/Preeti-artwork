@@ -1,101 +1,87 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
+title: Our Pride
+image: /img/preetiart4.jpeg
+heading: Kids are our pride
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: "Oh Back to Kans Mama.  :::::  कंस हिन्दू पौराणिक कथाएँ अनुसार
+  चंद्रवंशी यादव राजा था जिसकी राजधानी मथुरा थी। वह भगवान कृष्ण की मां देवकी का
+  भाई था। कंस को प्रारंभिक स्रोतों में मानव और पुराणों में एक दैत्य के रूप में
+  वर्णित किया गया है। कंस का जन्म चंद्रवंशी क्षत्रिय यादव राजा उग्रसेन और रानी
+  पद्मावती के यहाँ हुआ था। हालांकि महत्वाकांक्षा से और अपने व्यक्तिगत
+  विश्वासियों, बाणासुर और नरकासुर की सलाह पर, कंस ने अपने पिता को अपदस्थ किया और
+  मथुरा के राजा के रूप में खुद को स्थापित किया किन्तू वो अपनी बहन से बहुुत स्नेह
+  रखता था | कंस ने मगध के राजा जरासन्ध की बेटियों अस्ति और प्राप्ति से विवाह
+  करने का फैसला किया और अपनी बहन का विवाह अपने सामांत चंद्रवंशी क्षत्रिय वासुदेव
+  के साथ तय कर दी।"
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: |
+        किसी अत्याचारी या कष्ट पहुँचाने वाले मामा को कंस मामा कहा जाता है।
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: किसी अत्याचारी या कष्ट पहुँचाने वाले मामा को कंस मामा कहा जाता है।
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: किसी अत्याचारी या कष्ट पहुँचाने वाले मामा को कंस मामा कहा जाता है।
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      text: |
+        किसी अत्याचारी या कष्ट पहुँचाने वाले मामा को कंस मामा कहा जाता है।
+  heading: How he turned evil
+  description: जब कंस अपनी बहन देवकी के विवाह के उपरान्त, उन्हे रथ मे बिठा कर विदा
+    कर रहे थे उसी समय आकाशवाणी हुई कि देवकी का आठवां पुत्र उसकी मृत्यु का कारण
+    बनेगा। इसलिये उसने देवकी और उनके पति वसुदेव को कारागार मे डाल दिया। कंस ने
+    माता देवकी के छः पुत्रों को मार डाला। (बलराम इनकी सातवीं सन्तान
+    थे।)  हालांकि आठवें पुत्र भगवान विष्णु के अवतार कृष्ण को गोकुल ले जाया गया,
+    जहां उन्हें गोकुल के यादवकुल के मुखिया व वासुदेव के भाई नंद की देखभाल में
+    पाला गया था । कंस ने कृष्ण को मारने के लिए कई राक्षसों को भेजा, जिनमें से
+    सभी का कृष्ण द्वारा वध कर दिया गया। अंत में, कृष्ण अक्रूर जी के साथ मथुरा
+    पहुँचते हैं और अपने मामा कंस का वध करते हैं तथा अपने माता पिता को कारावास से
+    मुक्त कराया गया। कंस वध के बाद भी भगवान ने कई लीलाएं की जो जीवों को मोक्ष
+    देने के लिए हितकारी हैं।
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: किसी अत्याचारी या कष्ट पहुँचाने वाले मामा को कंस मामा कहा जाता है।
+  description: कंस हमारी भारतीय पौराणिक कथाओं के सबसे बड़े खलनायकों में से एक है।
+    उसके पापकर्म इतने प्रबल, निष्ठुरता इतनी गहन और अत्याचार इतने अमानवीय थे कि
+    द्वापर काल उसके नाम से कांप गया था। अपनी ही बहन देवकी की सात संतानों की
+    निर्मम हत्या कर उसने इतिहास में कंस मामा का नाम पाया। आज भी जब कोई मामा अपने
+    रिश्तों की मर्यादा लांघता है, तो उसे कंस मामा की उपाधि दी जाती है।
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/preetiart7.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/preetiart6.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/preeti-art1.jpeg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Kans Mama
+    quote: देवकी की संतानों द्वारा मृत्यु को प्राप्त होने की आकाशवाणी के बाद कंस
+      भयभीत हुआ और उसने ऐसे अत्याचार किए, जिनकी इतिहास में किसी से ना तुलना की
+      जा सकती है ना ही कल्पना।
+  - author: Mama Kans
+    quote: धर्मप्रिय माता-पिता की संतान होते हुए भी उसमें ऐसी आसुरी प्रवृत्तियां
+      कैसे जागृत हुई? जिस बहन को वह प्राणों से अधिक प्यार करता था, उस पर ही
+      अत्याचार कैसे कर सका? इन समस्त प्रश्नों का उत्तर एक ही है और हैरान कर देने
+      वाला है- कंस देवकी का सगा भाई था ही नहीं! कैसे
+full_image: /img/preetiart3.jpeg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: Class subscription Prices
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: For Kids who just want to dip their tongue in Art
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Overview
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      price: "50"
+    - description: Learn to draw
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Basics
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: "80"
+    - description: Master the art
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Shine
       plan: Custom
-      price: '??'
+      price: ??
 ---
