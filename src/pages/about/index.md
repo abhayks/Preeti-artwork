@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Kans Mama
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Let us discuss short Introduction of kamsa
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+* Kamsa`s Father name was Maharaja Ugrasen, who was a Yaduvanshi king.
+* Kamsa\`s mother name was Rani Padmawati, who was the daughter of Vidarbha\`s king Satyaketu.
+* kamsa`s sister Name was Deoki.
+* kamsa`s wives names was Asti And prapti both were daughter of maharaja Jarasandh.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Kamsa is not a biological son of Raja Ugrasen.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The Brhad Bhagavatamrta references the Sṛṣṭi-khaṇḍa (48–51) of the Padma Purana describing that after Padmavati's marriage with Ugrasena she stayed a short time in the house of her father, King Satyaketu. At that time a demonic messenger of Kuvera’s named Drumila (or Gobhila) became attracted to her. He saw Padmavati, as she was bathing. Overcome with lust, he came to her disguised as Ugrasena, and asked for sexual union with her. Thinking that her husband had returned from war, she yielded. That night they became intimate. During coitus, excited Drumila lost his self-control and got into his actual demonic form. However, Padmavati was so attracted to him that she didn't protest about it. As a result of this illicit love making, Padmavati conceived. She feared that Ugrasen may disown her as she was impregnated by a demon. But Ugrasena accepted her and she gave birth to Drumil's son Kamsa. Later Padmavati gave birth to four sons of Ugrasena. In fact, Kamsa in his previous birth was a demon called Kalnemi, who was slain by Lord Vishnu.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Kamsa Knew about his previous birth.
+
+Kamsa was made aware of his previous birth by the grace of Narada. He learned that in his previous birth he was a demon of the name Kalanemi and that he was killed by Visnu. Having taken his birth in the Bhoja family, he decided to become the deadly enemy of the Yadu dynasty; Krsna was going to take birth in that family, and Kamsa was very much afraid that he would be killed by Krsna, just as he was killed in his last birth.
+
+He first of all imprisoned his father Ugrasena because he was the chief king among the Yadu, Bhoja, and Andhaka dynasties, and he also occupied the kingdom of Surasena, Vasudeva's father. He declared himself the king of all such places.
