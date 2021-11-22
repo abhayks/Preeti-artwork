@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Preeti's Art World
 image: /img/preeticlass.jpeg
 heading: Learn art with a conscience
 subheading: Develop the artist within you
@@ -48,12 +48,11 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Whats does Art World brings to you ?
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    An insight into your own capabilities. Preet's extensive knowledge and
+    talent is just a guiding force which will help you develop and refine your
+    own talent. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
