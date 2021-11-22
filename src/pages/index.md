@@ -41,12 +41,14 @@ intro:
 
 
         Me :: Good Joke, tell me one more. 
-  heading: What we offer
+  heading: Discover your Passion
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Prettyz Art Studio are classes held for children whom are bound to express
+    their creativity in new and innovative ways under the guidance of Preeti
+    Katewa, an artist herself. Allow your children to find out who they truly
+    are through the calming, yet awe-inspiring practice of art where children
+    can channel their inner emotions and thoughts on a canvas to create
+    something much more deeper than just a picture. 
 main:
   heading: Whats does Art World brings to you ?
   description: >
